@@ -1,0 +1,1 @@
+Write the code for a function that draws the table using loops. 
